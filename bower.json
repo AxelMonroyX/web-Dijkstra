@@ -1,0 +1,20 @@
+{
+  "name": "web-Dijkstra",
+  "authors": [
+    "Axel Monroy <xaxelmonroyx@gmail.com>"
+  ],
+  "description": "javascript implementation",
+  "main": "app.js",
+  "keywords": [
+    "Dijkstra"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
